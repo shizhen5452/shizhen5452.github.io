@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: 与神跳舞
+subtitle: A man to be a programmer
+description: 
 keywords:
-author: John Doe
+author: Eminem Shi
 language:
 timezone:
 
@@ -78,4 +78,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git 
+  repo: git@github.com:shizhen5452/shizhen5452.github.io.git
+  branch: master
